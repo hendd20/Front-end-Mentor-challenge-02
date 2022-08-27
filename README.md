@@ -1,2 +1,7 @@
-# Front-end-Mentor-challenge-02
-Order summary component (Front-End-Mentor)
+# Frontend Mentor - Order summary card
+
+![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
+
+[Frontend Mentor](https://www.frontendmentor.io) 
+
+
